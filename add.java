@@ -2,6 +2,6 @@
 class add{
     public static void main(string arg[])
     {
-    System.out.println("addition 5 & 6" + (5+6));
+    System.out.println("addition 5 & 6 = " + (5+6));
 }
 }
